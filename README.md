@@ -1,0 +1,2 @@
+# Microsoft-Sentinel-
+CREATING REPOS FOR AZURE SENTiNEL
